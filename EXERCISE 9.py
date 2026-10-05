@@ -1,0 +1,1 @@
+docs_name = input("Ente)
